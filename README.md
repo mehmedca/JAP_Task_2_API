@@ -3,8 +3,9 @@
 <p>This is a <b>.NET Core Web API project</b> made for the purposes of completing SECOND task of <b>JAP</b>. The idea was to make a small and simple web app similar to IMDB.com but much much more simple and rudimentary. </p>
 <hr>
 
-<br>
-<h2>*** Quick reminder: Since there is no UI support for this particular task, before testing this (movies/buy-ticket) endpoint, please try the above one first. The GET will get you screenings with available tickets to purchase. Thank you! </h2>
+<h2>*** Quick reminder - Open image on the link below *** 
+    <br>
+    Since there is no UI support for this particular task, before testing this (movies/buy-ticket) endpoint, please try the above one first. The GET will get you screenings with available tickets to purchase. Thank you! </h2>
 ![movieAPIsnip](https://user-images.githubusercontent.com/89463590/134086022-e5a1d1ea-1945-4ab7-9189-48deccbb468c.PNG)
 
 <br>
